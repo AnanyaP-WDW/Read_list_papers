@@ -62,3 +62,6 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 
 ### Theme - Medical NLP
 - [ ] [HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition](https://arxiv.org/pdf/2008.07347.pdf)
+
+### Theme - Medical Diagnostics
+- [ ] [Epidermal electronics for noninvasive, wireless,quantitative assessment of ventricular shuntfunction in patients with hydrocephalus](http://rogersgroup.northwestern.edu/files/2018/shuntsstm.pdf)
