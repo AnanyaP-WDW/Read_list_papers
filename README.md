@@ -17,10 +17,10 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 - According to interest and importance, skip around a bunch of papers.
 
 2) How to read papers? - Take multiple passes
-- Title + Abstract + Figures
-- Introduction + Conclusions + Figures + Related work (based on interest) + Skim rest
-- Whole paper - Math
-- Whole paper - Parts that don't make sense
+- Step 1: Title + Abstract + Figures
+- Step 2: Introduction + Conclusions + Figures + Related work (based on interest) + Skim rest
+- Step 3: Whole paper - Math
+- Step 4: Whole paper - Parts that don't make sense
 
 3) How to know you have understood a paper? (*first and second points are vital*)
 - What the authors tried to accomplish?
