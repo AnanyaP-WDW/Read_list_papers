@@ -31,7 +31,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 4) Sources of Papers:
 - ML subreddit
 - Twitter 
-- NIPS|ICML|ICLR proceedings
+- NIPS | ICML | ICLR proceedings
 
 5) Understanding Math:
 - Read the paper accroding to point 3).
