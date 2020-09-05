@@ -1,4 +1,6 @@
 # Reading list
+**Interests**
+Deep learning, Optimization, Neuroscience and Biomedical engineering; Ideally at the intersection of two or more of the above mentioned themes. 
 **Motivation**:
 Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Advice.](https://www.youtube.com/watch?v=733m6qBH-jI)
 
