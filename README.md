@@ -48,7 +48,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 ## Papers
 ### Theme - General DL
 - [x] [Understanding Deep Learining Requires Rethinking Generalization](https://arxiv.org/pdf/1611.03530.pdf)
-- [ ] [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394.pdf)
+- [x] [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394.pdf)
 - [ ] [Deep Nets don't Learn via Memorization](https://www.researchgate.net/profile/Asja_Fischer/publication/315799530_Deep_Nets_Don%27t_Learn_via_Memorization/links/58e63a73a6fdcc6800b44d11/Deep-Nets-Dont-Learn-via-Memorization.pdf)
 - [ ] [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf)
 
