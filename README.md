@@ -60,8 +60,8 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 
 ### Theme - NLP
 - [ ] [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-- [ ] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)
-- [ ] [On The Use of Arxiv as a Dataset](https://arxiv.org/pdf/1905.00075.pdf)
+- [x] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings](https://arxiv.org/pdf/1801.04470.pdf)
+- [x] [On The Use of Arxiv as a Dataset](https://arxiv.org/pdf/1905.00075.pdf)
 - [ ] [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146.pdf)
 
 ### Theme - Medical NLP
