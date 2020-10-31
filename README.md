@@ -69,3 +69,6 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 
 ### Theme - Medical Diagnostics
 - [ ] [Epidermal electronics for noninvasive, wireless,quantitative assessment of ventricular shuntfunction in patients with hydrocephalus](http://rogersgroup.northwestern.edu/files/2018/shuntsstm.pdf)
+
+### Theme - Unsupervised Learning
+- [ ] [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)
