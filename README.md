@@ -72,3 +72,4 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 
 ### Theme - Unsupervised Learning
 - [ ] [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)
+- [ ] [hdbscan : Rates of convergence for the cluster tree](https://cseweb.ucsd.edu/~dasgupta/papers/tree.pdf)
