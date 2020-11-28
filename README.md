@@ -65,6 +65,9 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 - [ ] [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146.pdf)
 - [ ] [How does BERT capture semantics? A closer look at polysemous words](https://www.aclweb.org/anthology/2020.blackboxnlp-1.15.pdf)
 
+### Theme - NLP fundamental tutorials
+- [ ] [Porter stemmer - Stemming](http://people.scs.carleton.ca/~armyunis/projects/KAPI/porter.pdf)
+
 ### Theme - Bio NLP
 - [ ] [HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition](https://arxiv.org/pdf/2008.07347.pdf)
 - [ ] [Segmenting DNA sequence into ‘words’](https://arxiv.org/pdf/1202.2518.pdf)
