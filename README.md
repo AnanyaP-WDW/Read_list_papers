@@ -67,6 +67,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 
 ### Theme - NLP fundamental tutorials
 - [ ] [Porter stemmer - Stemming](http://people.scs.carleton.ca/~armyunis/projects/KAPI/porter.pdf)
+- [ ] [fastText: Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)
 
 ### Theme - Bio NLP
 - [ ] [HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition](https://arxiv.org/pdf/2008.07347.pdf)
