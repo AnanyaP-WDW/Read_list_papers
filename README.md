@@ -75,6 +75,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 - [ ] [HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition](https://arxiv.org/pdf/2008.07347.pdf)
 - [ ] [Segmenting DNA sequence into ‘words’](https://arxiv.org/pdf/1202.2518.pdf)
 - [ ] [DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1.full)
+- [ ] [EventEpi–A Natural Language Processing Framework for Event-Based Surveillance](https://www.medrxiv.org/content/10.1101/19006395v2.full.pdf)
 
 ### Theme - Medical Diagnostics
 - [ ] [Epidermal electronics for noninvasive, wireless,quantitative assessment of ventricular shuntfunction in patients with hydrocephalus](http://rogersgroup.northwestern.edu/files/2018/shuntsstm.pdf)
