@@ -51,12 +51,15 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 - [x] [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394.pdf)
 - [ ] [Deep Nets don't Learn via Memorization](https://www.researchgate.net/profile/Asja_Fischer/publication/315799530_Deep_Nets_Don%27t_Learn_via_Memorization/links/58e63a73a6fdcc6800b44d11/Deep-Nets-Dont-Learn-via-Memorization.pdf)
 - [ ] [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf)
+- [ ] [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
+- [ ] [ResNet Strikes back: an improved training procedure in timm](https://arxiv.org/abs/2110.00476)
 
 
 ### Theme - Optimization
 - [ ] [Three Factors Influencing Minima in SGD](https://arxiv.org/pdf/1711.04623.pdf)
 - [ ] [On the relation between the sharpest directions of DNN loss and the SGD step length](https://arxiv.org/pdf/1807.05031.pdf)
 - [ ] [ADAM: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+- [ ] [GROKKING:GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf)
 
 ### Theme - NLP
 - [ ] [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
