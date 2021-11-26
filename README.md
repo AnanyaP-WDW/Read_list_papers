@@ -68,6 +68,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 - [ ] [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146.pdf)
 - [ ] [How does BERT capture semantics? A closer look at polysemous words](https://www.aclweb.org/anthology/2020.blackboxnlp-1.15.pdf)
 - [ ] [The NLP Cookbook:Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/pdf/2104.10640.pdf)
+- [ ] [Variational Deep Semantic Hashing for Text Documents](https://arxiv.org/abs/1708.03436)
 
 ### Theme - NLP fundamental 
 - [ ] [Porter stemmer - Stemming](http://people.scs.carleton.ca/~armyunis/projects/KAPI/porter.pdf)
