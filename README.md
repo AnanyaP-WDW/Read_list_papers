@@ -88,3 +88,7 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 ### Theme - Unsupervised Learning
 - [ ] [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)
 - [ ] [hdbscan : Rates of convergence for the cluster tree](https://cseweb.ucsd.edu/~dasgupta/papers/tree.pdf)
+
+### Theme - Pruning
+- [ ] [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440, https://github.com/jacobgil/pytorch-pruning, https://jacobgil.github.io/deeplearning/pruning-deep-learning)
+- [ ] [What is the state of neural network pruning?](https://arxiv.org/pdf/2003.03033.pdf)
