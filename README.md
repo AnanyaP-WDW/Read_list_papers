@@ -92,3 +92,4 @@ Andrew Ng's [CS:230 Deep Learning| Autumn 2018 - Reading Research and Career Adv
 ### Theme - Pruning
 - [ ] [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440, https://github.com/jacobgil/pytorch-pruning, https://jacobgil.github.io/deeplearning/pruning-deep-learning)
 - [ ] [What is the state of neural network pruning?](https://arxiv.org/pdf/2003.03033.pdf)
+- [ ] [Pruning by explaining: A novel criterion for deep neural network pruning](https://www.sciencedirect.com/science/article/pii/S0031320321000868)
